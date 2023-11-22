@@ -1,7 +1,7 @@
 html, body { margin: 0; padding: 0; }
 
 body {
-    padding: 2em 3em;
+    padding: 2em 4em;
     background-color: #000;
     color: #fff;
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace;
@@ -37,7 +37,7 @@ tr:hover td {
 }
 
 tr:focus-within td {
-    background-color: #555;
+    background-color: #d1a7a7;
 }
 
 a {
